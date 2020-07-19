@@ -1,11 +1,11 @@
 # Site settings
 author: Hiren Mistry
-title: 
+title: My Journey Into Coding
 header-img: img/home-bg.png
 email: hirenmst@gmail.com
 copyright_name: Hiren Mistry
 description: > # this means to ignore newlines until "baseurl:"
-  
+  From teaching to Programming
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  hirenmis
